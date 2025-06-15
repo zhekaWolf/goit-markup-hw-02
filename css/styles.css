@@ -157,7 +157,7 @@ ul,li {
 .team-name {
     font-size: 20px;
     font-weight: 500;
-    color: #434455;
+    color: #2e2f42;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
@@ -166,6 +166,8 @@ ul,li {
     font-size: 16px;
     font-weight: 400;
     color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /* === PORTFOLIO === */
@@ -212,14 +214,17 @@ ul,li {
     background-color: #2e2f42;
 }
 
-.header-navigation-logo-first-logo {
+.footer-navigation-logo-first-logo {
   color: #4d5ae5;
     font-size: 18px;
     font-weight: 700;
-    font-family: raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+.footer-navigation-logo-italic {
+    color: #F4F4FD;
 }
 
 
