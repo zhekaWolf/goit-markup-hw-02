@@ -135,7 +135,7 @@ ul,li {
   background-color: #F4F4FD;
 }
 
-.team__title {
+.team-title {
     font-size: 36px;
     font-weight: 700;
     color: #2e2f42;
@@ -150,11 +150,11 @@ ul,li {
   /* ... */
 }
 
-.team__member {
+.team-member {
   background-color: #ffff;
 }
 
-.team__name {
+.team-name {
     font-size: 20px;
     font-weight: 500;
     color: #434455;
@@ -162,7 +162,7 @@ ul,li {
     letter-spacing: 0.02em;
 }
 
-.team__role {
+.team-role {
     font-size: 16px;
     font-weight: 400;
     color: #434455;
@@ -173,7 +173,7 @@ ul,li {
   /* ... */
 }
 
-.portfolio__title {
+.portfolio-title {
     font-size: 36px;
     font-weight: 700;
     color: #2e2f42;
@@ -183,15 +183,15 @@ ul,li {
     text-transform: capitalize;
 }
 
-.portfolio__list {
+.portfolio-list {
   /* ... */
 }
 
-.portfolio__item {
+.portfolio-item {
   /* ... */
 }
 
-.portfolio__name {
+.portfolio-name {
     font-size: 20px;
     font-weight: 500;
     color: #2e2f42;
@@ -199,7 +199,7 @@ ul,li {
     letter-spacing: 0.02em;
 }
 
-.portfolio__category {
+.portfolio-category {
     font-size: 16px;
     font-weight: 400;
     color: #434455;
