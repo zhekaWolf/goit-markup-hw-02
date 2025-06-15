@@ -60,7 +60,7 @@ ul,li {
     line-height: 1.5;
 }
 
-.header-address-tel-hover {
+.header-address-tel:hover {
     color: #404BBF;
 }
 .header-address-tel:focus {
