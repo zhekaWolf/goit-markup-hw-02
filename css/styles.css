@@ -36,7 +36,7 @@ ul,li {
 }
 
 .header-address {
-
+    font-style: normal;
 }
 .header-address-mail {
     font-size: 16px;
@@ -80,6 +80,7 @@ ul,li {
     color: #fff;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
     
 }
 
@@ -223,7 +224,7 @@ ul,li {
 
 
 
-.footer__text {
+.footer-text {
     font-size: 16px;
     font-weight: 400;
     color: #F4F4FD;
