@@ -38,7 +38,7 @@ ul,li {
 .header-address {
     font-style: normal;
 }
-.header-address-mail {
+.header-address-text {
     font-size: 16px;
     font-weight: 400;
     color: #434455;
@@ -46,26 +46,14 @@ ul,li {
     line-height: 1.5;
 
 }
-.header-address-mail:hover {
+.header-address-text:hover {
     color: #404BBF;
 }
-.header-address-mail:focus {
+.header-address-text:focus {
     color: #404BBF;
-}
-.header-address-tel {
-    font-size: 16px;
-    font-weight: 400;
-    color: #434455;
-    letter-spacing: 0.02em;
-    line-height: 1.5;
 }
 
-.header-address-tel:hover {
-    color: #404BBF;
-}
-.header-address-tel:focus {
-    color: #404BBF;
-}
+
 
 
 /* === HERO === */
