@@ -1,0 +1,165 @@
+ body {
+    font-family: Roboto, sans-serif;
+    color: #2E2F42;
+}
+
+ul,li {
+    list-style-type: none;
+    
+}
+/* === HEADER === */
+.header-address {
+
+}
+.header-address-mail {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+    letter-spacing: 2%;
+
+}
+.header-address-tel {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+    letter-spacing: 2%;
+}
+.header-address-mail-hover {
+    color: #404BBF;
+    text-decoration: none;
+}
+.header-address-tel-hover {
+    color: #404BBF;
+    text-decoration: none;
+}
+
+
+/* === HERO === */
+.hero {
+  color: #2e2f42;
+ 
+}
+
+.hero__title {
+    font-size: 56px;
+    font-weight: 700;
+    color: #fff;
+    
+}
+
+.hero__button {
+    background-color: #4d5ae5;
+    color: #fff;
+    
+    cursor: pointer;
+}
+.hero__button:hover {
+    background-color: #404BBF;
+}
+
+/* === FEATURES === */
+.features {
+  /* ... */
+}
+
+.features__list {
+  /* ... */
+}
+
+.features__item {
+  /* ... */
+}
+
+.features__item-title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.features__item-text {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+
+/* === TEAM === */
+.team {
+  /* ... */
+}
+
+.team__title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #2e2f42;
+    
+}
+
+.team__list {
+  /* ... */
+}
+
+.team__member {
+  /* ... */
+}
+
+.team__name {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.team__role {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+
+/* === PORTFOLIO === */
+.portfolio {
+  /* ... */
+}
+
+.portfolio__title {
+  /* ... */
+}
+
+.portfolio__list {
+  /* ... */
+}
+
+.portfolio__item {
+  /* ... */
+}
+
+.portfolio__name {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.portfolio__category {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+
+/* === FOOTER === */
+.footer {
+  /* ... */
+}
+
+.header-navigation-logo first-logo {
+  color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.header-navigation-logo-italic {
+    color: #4D5AE5;
+}
+
+.footer__text {
+    font-size: 16px;
+    font-weight: 400;
+    color: #F4F4FD;
+}
